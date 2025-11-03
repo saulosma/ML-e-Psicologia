@@ -10,7 +10,6 @@ Programa: Mestrado em Sistemas e Computação
 
 Ano: 2023
 
-📋 Descrição
 Este projeto contém scripts desenvolvidos para a análise de dados da dissertação de mestrado.
 
 O objetivo é investigar como técnicas de Inteligência Artificial (IA) e Aprendizado de Máquina (Machine Learning) podem colaborar com a triagem psicológica, especialmente no tratamento de dados emocionais e comportamentais.
